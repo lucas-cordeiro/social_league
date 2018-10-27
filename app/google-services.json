@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40471461743",
+    "firebase_url": "https://social-league.firebaseio.com",
+    "project_id": "social-league",
+    "storage_bucket": "social-league.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40471461743:android:7a0befd7b1e8b2c0",
+        "android_client_info": {
+          "package_name": "apps.akayto.socialleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40471461743-3kjf0mc3510taqatj8jc8on4r8kvbbeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.akayto.socialleague",
+            "certificate_hash": "ce96836c2292988970a4fde0406589779b5c5daa"
+          }
+        },
+        {
+          "client_id": "40471461743-b8u4h9ki4f9p65i3q9ilc64aslg0t3if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0DkNjhmkBIrtpg3yACnMQjmpMUc7fLko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40471461743-b8u4h9ki4f9p65i3q9ilc64aslg0t3if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

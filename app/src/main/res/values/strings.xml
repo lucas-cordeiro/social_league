@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Social League</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //CadastrarBancodeDados[Início]
+    <string name="stg_Senha_Invalida">Senha Inválida!</string>
+    <string name="stg_Email_Invalido">Email Inválido!</string>
+
+    <string name="stg_Sucesso">Sucesso ao criar Usuário</string>
+
+    <string name="stg_Conta_Existente">Conta já Existente! Faça o Login!</string>
+
+    <string name="stg_NickErro">Nick deve conter ao menos 4 caracteres!</string>
+    <string name="stg_NomeErro">Nome deve conter ao menos 4 caracteres!</string>
+    <string name="stg_ConfirmacaoSenhaErro">As senhas devem ser iguais!</string>
+
+    <string name="stg_NickExistente">Nome de conta já cadastrado</string>
+    <string name="stg_NickLoLExistente">Nickname do LoL do conta já cadastrado</string>
+    //CadastrarBancodeDados[Fim]
+
+    //RecuperarSenha[Início]
+    <string name="stg_RecuperarSucesso">Recuperação de Senha enviada para: </string>
+    <string name="stg_NaoEncontrado">"Usuário não encontrado!</string>
+    //RecuperarSenha[Fim]
+
+    //Menu Nav [Início]
+    <string name="stg_Times">Times</string>
+    <string name="stg_Torneios">Torneios</string>
+    <string name="stg_Notificacoes">Notificações</string>
+    <string name="stg_Gerenciamento_de_Conta">Gerenciamento de Conta</string>
+    <string name="stg_Alterar_Dados">Alterar Dados</string>
+    <string name="stg_Sair_da_Conta">Sair da Conta</string>
+    //Menu Nav [Fim]
+
+    //Login Layout [Início]
+    <string name="edt_Insira_seu_Email">Insira seu Email</string>
+    <string name="edt_Insira_sua_Senha">Insira sua Senha</string>
+
+    <string name="bnt_Entrar">Entrar</string>
+
+    <string name="txt_Esqueci_Senha">Esqueci minha senha</string>
+    <string name="txt_Criar_uma_conta">Crie uma conta Agora!</string>
+
+    <string name="check_Continuar_Logado">Continuar Logado</string>
+    //Login Layout [Fim]
+
+    //Cadastro [Início]
+    <string name="stg_Email">Email</string>
+    <string name="stg_Nickname">Nickname</string>
+    <string name="stg_NickLol">Nickname do LoL</string>
+    <string name="stg_Senha">Senha</string>
+    <string name="stg_Confirmacao_Senha">Confirmação de Senha</string>
+
+    <string name="txt_Email">Informe um email válido, será necessário verificá-lo</string>
+    <string name="txt_Nickname">Crie um nome para a sua conta</string>
+    <string name="txt_NickLoL">Informe seu Nickname do LoL</string>
+    <string name="txt_Senha">Crie uma senha com mais de 8 dígitos, contendo números e letras</string>
+    <string name="txt_Confirmacao_Senha">Confirme a senha criada</string>
+
+    <string name="bnt_Enviar">Enviar</string>
+    //Cadastro [Fim]
+
+    //Verifica Email [Início]
+    <string name="txt_Verificar_Email">Enviar Email de Verificação:</string>
+    <string name="txt_Selecione_um_Icone">Selecione um Icone:</string>
+
+    <string name="bnt_Proximo">Próximo</string>
+
+    <string name="stg_IconeSelecionado">Icone Selecionado!</string>
+    <string name="stg_IconenaoSelecionado">Icone não foi Selecionado!</string>
+    <string name="stg_EmailnaoVerificado">Email não foi Verificado!</string>
+    <string name="stg_EmailEnviado">Email de Verificação Enviado!</string>
+    <string name="stg_EmailError">Erro ao enviar Email de Verificacao!</string>
+
+    <string name="stg_ContinuacaoCadastro">Segunda Etapa do Cadastro</string>
+    //Verifica Email [Fim]
+
+    //Conta [Início]
+    <string name="txt_Dados_da_Conta">Dados da Conta</string>
+    <string name="txt_Icones">Icones</string>
+
+    <string name="bnt_Salvar">Salvar</string>
+
+    <string name="stg_ErroConectarConta">Erro ao conectar-se com a conta</string>
+    <string name="stg_NenhumCampoAlterado">Nenhum dado foi Alterado!</string>
+    //Conta [Fim]
+
+
+    //UsuarioLogado [Início]
+    <string name="stg_Sucesso_Alterar_Dados">Alterado</string>
+    <string name="stg_Sucesso_Alterar_Dadas">Alterada</string>
+    <string name="stg_Erro_Alterar_Dados">Erro ao tentar alterar Dado</string>
+
+    <string name="stg_Nome_da_Conta">Nome da Conta</string>
+    <string name="stg_Nick_do_LoL">Nick do LoL</string>
+    <string name="stg_Icone">Icone</string>
+    //UsuarioLogado [Fim]
+
+    //Perfil [Início]
+    <string name="stg_NickLoL">Nick do LoL:</string>
+    <string name="stg_Campeonatos">Campeonatos:</string>
+    <string name="stg_Vitorias">Vitórias:</string>
+    <string name="stg_Time">Time</string>
+    <string name="stg_Perfil">Perfil</string>
+    <string name="stg_SemTime">Você não está em um Time!</string>
+    <string name="bnt_EncontrarTime">Encontrar um Time</string>
+    //Perfil [Fim]
+
+    //Time[Início]
+    <string name="txt_Criar_Time">Crie um novo Time</string>
+    <string name="txt_Encontrar_Time">Encontrar um Time</string>
+    <string name="txt_Times_Disponiveis">Times disponíveis:</string>
+    <string name="txt_Nao_Times_Disponiveis">Não há times disponíveis!</string>
+    //Time[Fim]
+
+    //CriarTime[Início]
+    <string name="stg_InicieSuaHistoria">Inicie a sua História</string>
+    <string name="stg_NomeTime">Crie um nome para o seu Time</string>
+    <string name="edt_NomedoTime">Nome do Time</string>
+
+    <string name="stg_Membros">Caso já tenha Membros:</string>
+    <string name="edt_Membro">Membro</string>
+
+    <string name="stg_TimeSucesso">Sucesso ao Criar Time!</string>
+    <string name="stg_NomeTimeInvalido">Nome precisa ter 4 caracteres ou mais!</string>
+    <string name="stg_NomeTimeExiste">Nome já Cadastrado!</string>
+    <string name="stg_MembroNaoEncontrado">Membro não Encontrado</string>
+    //CriarTime[Fim]
+
+    //Perfil Time[Início]
+    <string name="stg_Lider">Líder:</string>
+    <string name="stg_Membro">Membros</string>
+
+    <string name="txt_NaoPossuiMembros">Ainda não possui Membros</string>
+
+
+    /AdicionarMembro[Início]
+
+    <string name="edt_NomeMembro">Nome do Membro</string>
+    <string name="txt_NovoMembro">Adicione um membro</string>
+    <string name="stg_SolicitacaoSucesso">Sucesso ao Enviar Solicitação</string>
+
+    <string name="stg_MembroJaNoTime">Membro já está no Time</string>
+
+    <string name="stg_MembroRemovido">Membro Removido com Sucesso</string>
+    /AdicionarMembro[Fim]
+
+    /Solicitar[Início]
+    <string name="stg_SolicitarEntrar">Solicitar entrada no Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    /Solicitar[Fim]
+
+    //Perfil Time[Fim]
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable = "@drawable/zed1" android:duration="0"/>
+    <item android:drawable = "@drawable/zed2" android:duration="100"/>
+    <item android:drawable = "@drawable/zed3" android:duration="100"/>
+    <item android:drawable = "@drawable/zed4" android:duration="100"/>
+    <item android:drawable = "@drawable/zed5" android:duration="100"/>
+    <item android:drawable = "@drawable/zed6" android:duration="100"/>
+    <item android:drawable = "@drawable/zed7" android:duration="100"/>
+    <item android:drawable = "@drawable/zed8" android:duration="100"/>
+    <item android:drawable = "@drawable/zed9" android:duration="100"/>
+    <item android:drawable = "@drawable/zed10" android:duration="100"/>
+    <item android:drawable = "@drawable/zed11" android:duration="100"/>
+    <item android:drawable = "@drawable/zed12" android:duration="100"/>
+    <item android:drawable = "@drawable/zed13" android:duration="100"/>
+    <item android:drawable = "@drawable/zed14" android:duration="100"/>
+    <item android:drawable = "@drawable/zed15" android:duration="100"/>
+    <item android:drawable = "@drawable/zed16" android:duration="100"/>
+    <item android:drawable = "@drawable/zed17" android:duration="100"/>
+    <item android:drawable = "@drawable/zed18" android:duration="100"/>
+    <item android:drawable = "@drawable/zed19" android:duration="100"/>
+    <item android:drawable = "@drawable/zed20" android:duration="100"/>
+    <item android:drawable = "@drawable/zed21" android:duration="100"/>
+    <item android:drawable = "@drawable/zed22" android:duration="100"/>
+    <item android:drawable = "@drawable/zed23" android:duration="100"/>
+    <item android:drawable = "@drawable/zed24" android:duration="100"/>
+    <item android:drawable = "@drawable/zed25" android:duration="50"/>
+</animation-list>

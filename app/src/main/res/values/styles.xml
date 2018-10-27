@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textColorHint">@color/darkGray</item>
+
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppCompat.TelaCheia" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">@color/Gray</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="MyEdtTheme2" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme2</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+    <style name="MyEdtTheme6" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme6</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+    <style name="MyEdtTheme1" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme1</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+    <style name="MyEdtTheme3" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme3</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+    <style name="MyEdtTheme4" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme4</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+    <style name="MyEdtTheme5" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/Theme5</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+    </style>
+
+
+</resources>

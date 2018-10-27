@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" android:id="@+id/group_nav1">
+        <item
+            android:id="@+id/nav_times"
+            android:icon="@drawable/ic_menu_times"
+            android:title="@string/stg_Times" />
+        <item
+            android:id="@+id/nav_torneios"
+            android:icon="@drawable/ic_menu_torneios"
+            android:title="@string/stg_Torneios" />
+        <item
+            android:id="@+id/nav_notificacoes"
+            android:icon="@drawable/ic_menu_notifications"
+            android:title="@string/stg_Notificacoes" />
+
+    </group>
+
+
+    <group android:checkableBehavior="single" android:id="@+id/group_nav2">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_menu_alterar"
+            android:title="@string/stg_Perfil" />
+        <item
+            android:id="@+id/nav_alterar_dados"
+            android:icon="@drawable/ic_dados"
+            android:title="@string/stg_Alterar_Dados" />
+        <item
+            android:id="@+id/nav_sair_conta"
+            android:icon="@drawable/icmenu_logout"
+            android:title="@string/stg_Sair_da_Conta" />
+
+    </group>
+
+</menu>

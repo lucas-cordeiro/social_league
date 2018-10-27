@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#ffbf00</color>
+
+
+    //Menu Nav [Início]
+    <color name="colorNavMenu">#333333</color>
+    <color name="colorNavLetras">#ffbf00</color>
+    //Menu Nav [Fim]
+
+    <color name="darkGray">#7b7b7b</color>
+    <color name="Gray">#3d3d3d</color>
+    <color name="colorBanner">#212121</color>
+
+    <color name="Theme1">#d94b4b</color>
+    <color name="Theme2">#6305ce</color>
+    <color name="Theme3">#eaff00</color>
+    <color name="Theme4">#a2ff00</color>
+    <color name="Theme5">#4bd2d9</color>
+    <color name="Theme6">#d94bcb</color>
+</resources>
